@@ -4,7 +4,7 @@
  
  * @author Jafar Pathan (https://github.com/Jafar-Pathan)
  * @version 1.0
- * @copyright Feel free to change it and use it anywhere. Just provide link for github.
+ * @copyright Feel free to change it and use it anywhere. Just provide a link for github.
  * <b>!! WARNING :- DON'T OVER DO IT, BECAUSE IT CREATES NEW STAGE OBJECT EACH TIME WHEN PRIMARY STAGE IS DRAGGED. DRAGGING IT FOR TOO LONG WILL PUT IMPACT ON MEMORY. BE CAUTION.
  * 					TO CLOSE APPLICATION. CLOSE IT FROM WINDWOS TASKBAR. !!</b>
 
